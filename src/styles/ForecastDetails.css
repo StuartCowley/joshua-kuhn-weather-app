@@ -1,0 +1,19 @@
+.forecast-details {
+  margin: 1rem auto;
+  padding: 50px;
+  display: flex;
+  width: fit-content;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0.25);
+  border-radius: 25px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  font-size: xx-large;
+}
+
+.forecast-details__date {
+  margin-bottom: 0.5rem;
+  font-weight: bold;
+  font-size: 50px;
+}

@@ -1,0 +1,9 @@
+.forecast-summaries {
+  display: flex;
+  justify-content: space-evenly;
+}
+.forecast-summaries {
+  margin: 3rem;
+  display: flex;
+  justify-content: space-evenly;
+}

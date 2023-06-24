@@ -1,0 +1,11 @@
+.search-form {
+  margin: 3rem;
+}
+
+.search-form__button,
+.search-form__text {
+  margin: 0.25rem;
+  padding: 5px;
+  color: black;
+  font-size: x-large;
+}
